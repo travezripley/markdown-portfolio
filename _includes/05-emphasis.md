@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I hope to find a Web Development Job after this Bootcamp,**
+_I love __SDCS__._
